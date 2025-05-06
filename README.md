@@ -1,6 +1,16 @@
+# Demo Project by Jeremiah Woldabezgi
+
+Hi, I’m Jeremiah Woldabezgi. I built this demo for Detect Auto as a way to **show** what I can do instead of just telling you.
+
+Here’s a quick video of the project running live on my laptop:  
+▶️ [Watch my demo](https://drive.google.com/file/d/1bVEgzYXkBWF5HWJYjQdMMnfAEWwwUQ3J/view?usp=sharing)
+
+
+----------------------------------
+
 # Detect Auto - AI Diagnostic Tool
 
-An AI-powered automotive diagnostic tool that helps mechanics and car owners diagnose issues, predict necessary parts, and generate repair summaries.
+This is an AI-powered automotive diagnostic tool that helps mechanics and car owners diagnose issues, predict the necessary parts for a repair, and generate repair summaries.
 
 ## Project Structure
 
