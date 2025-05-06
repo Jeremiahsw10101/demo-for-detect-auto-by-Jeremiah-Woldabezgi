@@ -17,21 +17,22 @@ You just need to create a dummy account and login using those credentials to be 
 
 This is an AI-powered automotive diagnostic tool that helps mechanics and car owners diagnose issues, predict the necessary parts for a repair, and generate repair summaries.
 
+## Key Features
+
+- AI Diagnostic Chatbot
+- Smart Parts Predictor
+- Repair Order Summarizer
+- JWT Authentication (for Accounts/Login)
+
+
+## Getting Started
+
 ## Project Structure
 
 The project is divided into two main parts:
 
 - `/client` - Frontend Next.js application
 - `/server` - Backend FastAPI application
-
-## Features
-
-- AI Diagnostic Chatbot
-- Smart Parts Predictor
-- Repair Order Summarizer
-- JWT Authentication
-
-## Getting Started
 
 ### Prerequisites
 
