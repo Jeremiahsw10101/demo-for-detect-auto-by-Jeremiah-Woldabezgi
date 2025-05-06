@@ -5,6 +5,11 @@ Hi, I’m Jeremiah Woldabezgi. I built this demo for Detect Auto as a way to **s
 Here’s a quick video of the project running live on my laptop:  
 ▶️ [Watch my demo](https://drive.google.com/file/d/1bVEgzYXkBWF5HWJYjQdMMnfAEWwwUQ3J/view?usp=sharing)
 
+You can visit a live link to the demo online at:
+
+https://repait-ai-powered-chat-fastapi-nextjs-production.up.railway.app
+
+You just need to create a dummy account and login using those credentials to be able to use it.
 
 ----------------------------------
 
